@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
+![alt text](https://nikunj200.pythonanywhere.com/static/img/banner.png)
 <!--
 **nikunj200/nikunj200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
