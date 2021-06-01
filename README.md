@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<a href="https://nikunj200.pythonanywhere.com/"><img src="https://nikunj200.pythonanywhere.com/static/img/banner.png" height="200"></a>
+<a href="https://nikunj200.pythonanywhere.com/"><img src="https://nikunj200.pythonanywhere.com/static/img/banner.png" height="250"></a>
 
 <!--
 **nikunj200/nikunj200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
