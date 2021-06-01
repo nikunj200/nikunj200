@@ -2,6 +2,10 @@
 
 <a href="https://nikunj200.pythonanywhere.com/"><img src="https://nikunj200.pythonanywhere.com/static/img/banner.png" height="250"></a>
 
+### About
+A Computer Science and Engineering student from IIITDM Kancheepuram, Chennai. I look to design systems/products that are meaningful and solve real world problems using the first principles.
+
+
 ### 📫 Contact me:
 
 [<img align="left" alt="Nikunj Maheshwari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/nikunj.maheshwari.98/)
