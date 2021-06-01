@@ -2,7 +2,7 @@
 
 <a href="https://nikunj200.pythonanywhere.com/"><img src="https://nikunj200.pythonanywhere.com/static/img/banner.png" height="250"></a>
 
-##Contact:
+## Contact:
 <a class="link" href="tel:916354597800" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Phone"><i class="fas fa-phone-square-alt"></i></a>
 <a class="link" href="mailto:nikunjmaheshwari200@gmail.com" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Mail"><i class="fas fa-envelope"></i></a>
 <a class="link" href="https://www.facebook.com/nikunj.maheshwari.98/" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Facebook"><i class="fab fa-facebook" aria-hidden="true"></i></a>
